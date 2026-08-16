@@ -1,32 +1,26 @@
-# ClaudeCodeUnlimited
+# ClaudeNolimit
 
-**A Windows utility designed to simplify Claude Code setup, configuration, and usage management.**
+## ?? Important � Before You Start
 
-ClaudeCodeUnlimited provides a streamlined setup process for configuring Claude Code on Windows, with an emphasis on simplicity, automation, and ease of use.
+Welcome to **ClaudeNolimit**!
 
-## Features
+Before launching the tool, please follow these steps carefully:
 
-* ⚡ Quick and simplified setup
-* 🛠️ Automated configuration
-* 💻 Windows-focused workflow
-* 📦 Organized configuration components
-* 🚀 Easy-to-use setup process
-* 🔧 Designed for a smooth Claude Code experience
+1. **Completely close Claude** on your PC.
+2. Open **Task Manager** (`Ctrl + Shift + Esc`).
+3. Make sure there are **no Claude processes still running**. If you find any, close them.
+4. **Run ClaudeNolimit as Administrator**.
+5. After launching ClaudeNolimit, **wait approximately 30 seconds** so that all commands can finish executing.
+6. Once everything is completed, **restart your PC**.
 
-## Requirements
+> ?? **Important:** Do not reopen Claude before completing the steps above and restarting your PC.
 
-* Windows 10 / 11
-* Claude Code installed
-* Administrator privileges when required
+### Quick Checklist
 
-## Getting Started
+* [ ] Claude is completely closed
+* [ ] No Claude processes are running in Task Manager
+* [ ] ClaudeNolimit is running as Administrator
+* [ ] Waited 30 seconds
+* [ ] PC has been restarted
 
-Download the latest version, follow the setup instructions, and allow the required configuration steps to complete before using Claude Code.
-
-> **Note:** This is an independent third-party project and is not affiliated with or endorsed by Anthropic.
-
-### Repository
-
-**Name:** `ClaudeCodeUnlimited`
-
-**Description:** `A Windows utility for simplifying Claude Code setup, configuration, and usage management.`
+**Thanks for using ClaudeNolimit!**
