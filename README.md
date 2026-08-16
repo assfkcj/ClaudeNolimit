@@ -1,6 +1,6 @@
 # ClaudeNolimit
 
-## ?? Important � Before You Start
+## 🚨 Important Before You Start
 
 Welcome to **ClaudeNolimit**!
 
